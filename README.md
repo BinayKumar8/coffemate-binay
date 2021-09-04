@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @coffemate-binay
+- 👋 Hi, I’m Binay
 - 👀 I’m interested in Javascript
 - 🌱 I’m currently learning ReactJs
 - 💞️ I’m looking to collaborate on ...
